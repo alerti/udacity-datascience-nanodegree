@@ -19,3 +19,6 @@
 <code>scikit-learn version: 1.0.2.</code> <br>
 <code>Pandas version: 1.3.5.</code> <br>
 <code>Matplotlib version: 3.2.2.</code> <br>
+  
+  <h3>Install requirements </h3>
+  <code> pip install -r requirements.txt</code> <br>
