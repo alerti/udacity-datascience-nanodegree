@@ -1,4 +1,4 @@
-# Why do we have price fluctuations at Airbnb?
+# Why do we have price fluctuations when booking an Airbnb?
 
 - <a href= "https://www.kaggle.com/code/joeyzijiantan/analysis-on-airbnb-seattle/data" > Kaggle data </a> 
 - <a href= "https://medium.com/@mukunzialex47/inside-airbnb-data-7b7b1340c012" > Deeper explanations </a> 
@@ -14,7 +14,7 @@
 
 </ol>
 
-<h3><b>Libraries used .</h3><b>
+<h3><b>Libraries used .</h3></b>
 
 <code>Wordcloud version: 1.8.2.2</code> <br>
 <code>Numpy version: 1.21.6.</code> <br>
@@ -31,6 +31,12 @@
   <span>airbnb data/listings.csv : listings data</span><br>
   <span>airbnb data/calendar.csv : calendar data</span>
   
+  <h3> Excecutive summary(Insights) </h3> 
+<ul> <li>The average price for the summer holiday (June, July, and August) is higher than the other period of the whole year. The orange line represents the median value of price in that specific month</li>
+<li>We can conclude that the summer holiday period(June, July, August) and January have fewer available listings than the rest months of the year. Probably, customers have made the reservation in advance.</li>
+<li> Monday has more available listings than the rest of the week. For the average price, the average price for weekends (Friday & Saturday) is higher than the weekdays.</li>
+<li>The number of accommodations, the number of bedrooms & beds, and cleaning fees have a significant effect on raising the listing price. Meanwhile, it seems the monthly number of reviews has a weak, negative correlation with the listing price.</li>
+
   
 &nbsp;
 &nbsp;
