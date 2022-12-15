@@ -1,7 +1,7 @@
 # Why do we have price fluctuations when booking an Airbnb?
 
 - <a href= "https://www.kaggle.com/code/joeyzijiantan/analysis-on-airbnb-seattle/data" > Kaggle data </a> 
-- <a href= "https://medium.com/@mukunzialex47/inside-airbnb-data-7b7b1340c012" > Deeper explanations </a> 
+- <a href= "https://medium.com/@mukunzialex47/inside-airbnb-data-7b7b1340c012" >Blog post on medium </a> 
 
 
 <b> Main focus</b>
