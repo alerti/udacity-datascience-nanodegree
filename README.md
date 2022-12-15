@@ -26,7 +26,7 @@
   <code> pip install -r requirements.txt</code> <br>
 
   <h3> File description </h3> 
-  analysis_on_airbnb_seattle.ipynb: <i> Notebook containing the analysis data</i> <br>
+  analysis-on-airbnb-seattle.ipynb: <i> Notebook containing the analysis data</i> <br>
   <span>airbnb data/reviews.csv : reviews data</span><br>
   <span>airbnb data/listings.csv : listings data</span><br>
   <span>airbnb data/calendar.csv : calendar data</span>
