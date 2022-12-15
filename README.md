@@ -26,10 +26,10 @@
   <code> pip install -r requirements.txt</code> <br>
 
   <h3> File description </h3> 
-  analysis-on-airbnb-seattle.ipynb: <i> Notebook containing the analysis data</i> <br>
-  <span>airbnb data/reviews.csv : reviews data</span><br>
-  <span>airbnb data/listings.csv : listings data</span><br>
-  <span>airbnb data/calendar.csv : calendar data</span>
+  - analysis-on-airbnb-seattle.ipynb: <i> Notebook containing the analysis data</i> <br>
+  <span>- airbnb data/reviews.csv : reviews data</span><br>
+  <span>- airbnb data/listings.csv : listings data</span><br>
+  <span>- airbnb data/calendar.csv : calendar data</span>
   
   <h3> Excecutive summary(Insights) </h3> 
 <ul> <li>The average price for the summer holiday (June, July, and August) is higher than the other period of the whole year. The orange line represents the median value of price in that specific month</li>
