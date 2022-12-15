@@ -7,10 +7,10 @@
 <b> Main focus</b>
 
 <ol>
-<li> Get insights on client reviews </li> 
-<li> Analyse and do corr metrics on the data </li>
-<li> Do a model  to predict future data </li>
-<li> <a href= "https://medium.com/@mukunzialex47/inside-airbnb-data-7b7b1340c012" > Blog post(medeum)</a> </li>
+<li>Get the busiest times of the year to visit Seattle and By how much do prices spike </li> 
+<li> Get the vibe of each Seattle neighbourhood using listing descriptions </li>
+<li> Segment  location are you possibly going to spend more for an Airbnb </li>
+<li> <a href= "https://medium.com/@mukunzialex47/inside-airbnb-data-7b7b1340c012" > Blog post(medium)</a> </li>
 
 </ol>
 
