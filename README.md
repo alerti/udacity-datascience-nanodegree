@@ -31,8 +31,9 @@
   <span>- airbnb data/listings.csv : listings data</span><br>
   <span>- airbnb data/calendar.csv : calendar data</span>
 
-  ### Structure 
-```
+  ### Structure
+  ```
+
   udacity-datascience-nanodegree/
 ├── airbnb data/
 │   ├── calendar.csv
@@ -85,9 +86,8 @@
     ├── README.md
     ├── Starbucks_Capstone_notebook.html
     └── Starbucks_Capstone_notebook.ipynb
-    ```
-  
-  <h3> Executive summary(Insights) </h3> 
+```
+<h3> Executive summary(Insights) </h3> 
 <ul> <li>The average price for the summer holiday (June, July, and August) is higher than the other period of the whole year. The orange line represents the median value of price in that specific month</li>
 <li>We can conclude that the summer holiday period(June, July, August) and January have fewer available listings than the rest months of the year. Probably, customers have made the reservation in advance.</li>
 <li> Monday has more available listings than the rest of the week. For the average price, the average price for weekends (Friday & Saturday) is higher than the weekdays.</li>
@@ -101,3 +101,5 @@
 Data source- <a href= "https://www.kaggle.com/code/joeyzijiantan/analysis-on-airbnb-seattle/data"> Kaggle data </a> <br>
 <h6> acknowledgements <br>
   <a href= "https://www.kaggle.com/airbnb" > Airbnb (Owner) </a> </h6>
+ 
+
