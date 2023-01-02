@@ -115,13 +115,13 @@ Load, analyze and visualize data to get an overall understanding of the data set
 > member_type
 
 From the quick analysis I managed to garner these insights:
->Female customers finished ~75% of the offers they viewed, men completed just 58% of the offers they viewed, and female customers finished seeming to be convinced easily
-> On average it takes a customer to complete an offer less than 16 days(~372 hrs)
->Both gender are interested in BOGOF, they also have similar reactions to informational offers(they seem not to be interested)
-> Gender differences seem not to affect the time to complete an offer, both took 17days to do so
-> Most common offer type is BOGO, then discount offers, and informational offers pulling less interest. BOGO seems to be the most attractive compared to others at Starbucks
-> — There are 2175 missing values, and customers fall into 3 categories ( M — (8484–57%), F — (6129–41%), O— (212))
->Customer income ranges
+ - Female customers finished ~75% of the offers they viewed, men completed just 58% of the offers they viewed, and female customers finished seeming to be convinced easily
+-  On average it takes a customer to complete an offer less than 16 days(~372 hrs)
+-  Both gender are interested in BOGOF, they also have similar reactions to informational offers(they seem not to be interested)
+-  Gender differences seem not to affect the time to complete an offer, both took 17days to do so
+- Most common offer type is BOGO, then discount offers, and informational offers pulling less interest. BOGO seems to be the most attractive compared to others at Starbucks
+- There are 2175 missing values, and customers fall into 3 categories ( M — (8484–57%), F — (6129–41%), O— (212))
+Customer income ranges : 
 — between 30000 and 120000
 — most fall between 50,000 and 75000.
 
