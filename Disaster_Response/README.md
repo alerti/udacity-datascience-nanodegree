@@ -74,12 +74,12 @@ A Python script, `train_classifier.py`, writes a machine learning pipeline that:
 #### 3. Flask Web App
 The project includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app will also display visualizations of the data. The outputs are shown below:
 
-![app3](./images/screenshot1.JPG)
+![app3](images/screenshot1.png)
 
-![app1](./images/screenshot2.JPG)
+![app1](images/sreenshot2.png)
 
 
-![app2](./images/screenshot3.JPG)
+![app2](images/screenshot3.png)
 
 
 ### Instructions of How to Interact With Project:
@@ -87,10 +87,10 @@ Instructions to get similar results
     - To run the ETL
         <code> python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db</code>
     - To run the ML pipeline
-        <code> python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl <code>
+        <code> python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl </code>
 
 - Fire up the app using this command.
-    <code> python run.py<code>
+    <code> python run.py </code>
 
 - Go to http://0.0.0.0:3001/
 

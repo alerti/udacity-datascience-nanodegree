@@ -20,10 +20,11 @@ No additional installations beyond the Anaconda distribution of Python and Jupyt
 
 ## Project Motivation
 For this project I was interested in analysing the interactions that users have with articles on the IBM Watson Studio platform, and making recommendations to them about new articles they would like. The project was divided into the following tasks:
- `Exploratory Data Analysis`
- `Rank Based Recommendations`
- `User-User Based Collaborative Filtering`
- `Matrix factorisation`
+
+ `Exploratory Data Analysis` <br>
+ `Rank Based Recommendations`<br>
+ `User-User Based Collaborative Filtering`<br>
+ `Matrix factorisation`<br>
 
 ## Project files
 data    
