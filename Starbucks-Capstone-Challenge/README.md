@@ -1,5 +1,8 @@
 # Starbucks-Capstone-Challenge
 
+
+[Medium Blog post](https://medium.com/@mukunzialex47/facts-about-starbucks-offers-15dbcf3d2c8e)
+
 ----
 # Problem Statement
 
