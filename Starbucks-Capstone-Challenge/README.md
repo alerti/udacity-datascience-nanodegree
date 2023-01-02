@@ -106,13 +106,13 @@ Starbucks-Capstone-Challenge/
 ### Insights
 In this Project, I analyzed data sets provided by Starbucks to predict whether a customer would complete the offer or just view it
 
-Process:
-Load, analyze and visualize data to get an overall understanding of the data set, data processing took the bigger chunk of the project
-- Create latent features; to improve the performance of the model, features extracted from the original existing column:
-— Features:
-> age_group
-> income_range
-> member_type
+`Process:`
+* Load, analyze and visualize data to get an overall understanding of the data set, data processing took the bigger chunk of the project
+* Create latent features; to improve the performance of the model, features extracted from the original existing column:
+* Features:
+    * age_group
+    * income_range
+    * member_type
 
 From the quick analysis I managed to garner these insights:
  - Female customers finished ~75% of the offers they viewed, men completed just 58% of the offers they viewed, and female customers finished seeming to be convinced easily
@@ -129,8 +129,8 @@ Customer income ranges :
 The medium article on data analysis can be found in this [medium]
 
 
-Acknowledgments and thank you
+`Acknowledgments and thank you`
 
 
- Thank you [Udacity](https://www.udacity.com) & Starbucks](https://www.starbucks.com/) for the data
+ Thank you [Udacity](https://www.udacity.com) & [Starbucks](https://www.starbucks.com/) for the data
  [Bhosle](https://towardsdatascience.com/starbucks-capstone-challenge-35e3b8c6b328)
