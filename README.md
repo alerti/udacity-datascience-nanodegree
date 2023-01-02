@@ -30,8 +30,64 @@
   <span>- airbnb data/reviews.csv : reviews data</span><br>
   <span>- airbnb data/listings.csv : listings data</span><br>
   <span>- airbnb data/calendar.csv : calendar data</span>
+
+  ### Structure 
+```
+  udacity-datascience-nanodegree/
+├── airbnb data/
+│   ├── calendar.csv
+│   ├── listings.csv
+│   └── reviews.csv
+├── analysis_on_airbnb_seattle.ipynb
+├── Disaster_Response/
+│   ├── app/
+│   │   ├── run.py
+│   │   └── templates/
+│   │       ├── go.html
+│   │       └── master.html
+│   ├── data/
+│   │   ├── disaster_categories.csv
+│   │   ├── disaster_messages.csv
+│   │   └── process_data.py
+│   ├── ETL Pipeline Preparation.ipynb
+│   ├── images/
+│   │   ├── screenshot1.png
+│   │   ├── screenshot3.png
+│   │   └── sreenshot2.png
+│   ├── ML Pipeline Preparation.ipynb
+│   ├── models/
+│   │   └── train_classifier.py
+│   └── README.md
+├── Ibm-recommndations/
+│   ├── __pycache__/
+│   │   └── project_tests.cpython-310.pyc
+│   ├── data/
+│   │   ├── articles_community.csv
+│   │   └── user-item-interactions.csv
+│   ├── debug.log
+│   ├── IBM__recommendations.ipynb
+│   ├── project_tests.py
+│   ├── README.md
+│   ├── Recommendations_with_IBM.html
+│   ├── top_10.p
+│   ├── top_20.p
+│   ├── top_5.p
+│   └── user_item_matrix.p
+├── README.md
+├── requirements.txt
+└── Starbucks-Capstone-Challenge/
+    ├── data/
+    │   ├── portfolio.json
+    │   ├── profile.json
+    │   └── transcript.json
+    ├── pic1.png
+    ├── pic2.png
+    ├── README.md
+    ├── Starbucks_Capstone_notebook.html
+    └── Starbucks_Capstone_notebook.ipynb
+    ```
   
-  <h3> Excecutive summary(Insights) </h3> 
+  <h3> Executive summary(Insights) </h3> 
 <ul> <li>The average price for the summer holiday (June, July, and August) is higher than the other period of the whole year. The orange line represents the median value of price in that specific month</li>
 <li>We can conclude that the summer holiday period(June, July, August) and January have fewer available listings than the rest months of the year. Probably, customers have made the reservation in advance.</li>
 <li> Monday has more available listings than the rest of the week. For the average price, the average price for weekends (Friday & Saturday) is higher than the weekdays.</li>
